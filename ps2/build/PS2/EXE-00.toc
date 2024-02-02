@@ -1,0 +1,95 @@
+('X:\\iCloudDrive\\hot data\\pyproject\\project\\ps2\\dist\\PS2.exe',
+ True,
+ False,
+ False,
+ 'T:\\pyqt\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'X:\\iCloudDrive\\hot data\\pyproject\\project\\ps2\\build\\PS2\\PS2.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'X:\\iCloudDrive\\hot data\\pyproject\\project\\ps2\\build\\PS2\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'X:\\iCloudDrive\\hot '
+   'data\\pyproject\\project\\ps2\\build\\PS2\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'X:\\iCloudDrive\\hot '
+   'data\\pyproject\\project\\ps2\\build\\PS2\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'X:\\iCloudDrive\\hot '
+   'data\\pyproject\\project\\ps2\\build\\PS2\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'X:\\iCloudDrive\\hot '
+   'data\\pyproject\\project\\ps2\\build\\PS2\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'X:\\iCloudDrive\\hot '
+   'data\\pyproject\\project\\ps2\\build\\PS2\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'T:\\pyqt\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('PS2',
+   'X:\\iCloudDrive\\hot data\\pyproject\\project\\ps2\\PS2.py',
+   'PYSOURCE'),
+  ('python38.dll', 'T:\\pyqt\\venv\\Scripts\\python38.dll', 'BINARY'),
+  ('unicodedata.pyd', 'S:\\pycharm\\python389\\unicodedata.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'S:\\pycharm\\python389\\_bz2.pyd', 'EXTENSION'),
+  ('select.pyd', 'S:\\pycharm\\python389\\select.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'S:\\pycharm\\python389\\_socket.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'S:\\pycharm\\python389\\_hashlib.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'S:\\pycharm\\python389\\_lzma.pyd', 'EXTENSION'),
+  ('win32\\win32gui.pyd',
+   'T:\\pyqt\\venv\\lib\\site-packages\\win32\\win32gui.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd', 'S:\\pycharm\\python389\\_ctypes.pyd', 'EXTENSION'),
+  ('_queue.pyd', 'S:\\pycharm\\python389\\_queue.pyd', 'EXTENSION'),
+  ('VCRUNTIME140.dll', 'T:\\pyqt\\venv\\Scripts\\VCRUNTIME140.dll', 'BINARY'),
+  ('libcrypto-1_1.dll', 'S:\\pycharm\\python389\\libcrypto-1_1.dll', 'BINARY'),
+  ('pywin32_system32\\pywintypes38.dll',
+   'T:\\pyqt\\venv\\lib\\site-packages\\pywin32_system32\\pywintypes38.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'T:\\pyqt\\venv\\Scripts\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libffi-7.dll', 'S:\\pycharm\\python389\\libffi-7.dll', 'BINARY'),
+  ('base_library.zip',
+   'X:\\iCloudDrive\\hot '
+   'data\\pyproject\\project\\ps2\\build\\PS2\\base_library.zip',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1706258849,
+ [('run.exe',
+   'T:\\pyqt\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+   'EXECUTABLE')],
+ 'T:\\pyqt\\venv\\Scripts\\python38.dll')
